@@ -15,10 +15,10 @@ Printable Link: https://www.printables.com/model/225801-imac-pro-continuity-came
 
 ## Model Files:
 
-* [Shapr3D (original model)](iMac%20Pro%20Continuity%20Camera%20Mount.shapr):
-* [3mf (for printing)](iMac%20Pro%20Continuity%20Camera%20Mount.3mf)
-* [Step (CAD interchange)](iMac%20Pro%20Continuity%20Camera%20Mount.step)
-* [USDZ (for AR viewing)](iMac%20Pro%20Continuity%20Camera%20Mount.usdz)
+* [Shapr3D (original model)](Models/iMac%20Pro%20Continuity%20Camera%20Mount.shapr):
+* [3mf (for printing)](Models/iMac%20Pro%20Continuity%20Camera%20Mount.3mf)
+* [Step (CAD interchange)](Models/iMac%20Pro%20Continuity%20Camera%20Mount.step)
+* [USDZ (for AR viewing)](Models/iMac%20Pro%20Continuity%20Camera%20Mount.usdz)
 
 ## License
 
