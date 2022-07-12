@@ -8,7 +8,7 @@ See https://www.theverge.com/2022/6/7/23158510 for more information.
 
 Link to original .shapr source file. https://github.com/schwa/continuity-camera-mount
 
-Printable Link: https://www.printables.com/model/225801-imac-pro-continuity-camera-mount
+Printable Link: https://www.printables.com/model/231544-imac-pro-continuity-camera-mount
 
 ### Render of mount on an iMac Pro
 
