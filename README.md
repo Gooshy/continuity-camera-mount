@@ -28,10 +28,10 @@ Printable Link: https://www.printables.com/model/225801-imac-pro-continuity-came
 
 This design is for MacBook Pro (tested on 16" M1 MacBook Pro) but should fit any display that is ~5mm deep.
 
-* [3mf (for printing)](Models/iMac%20Pro%20Continuity%20Camera%20Mount.3mf)
-* [Shapr3D (original model)](Models/iMac%20Pro%20Continuity%20Camera%20Mount.shapr)
-* [Step (CAD interchange)](Models/iMac%20Pro%20Continuity%20Camera%20Mount.step)
-* [USDZ (for AR viewing)](Models/iMac%20Pro%20Continuity%20Camera%20Mount.usdz)
+* [3mf (for printing)](Models/MacBook%20Pro%20Coherence%20Camera%20Mount.3mf)
+* [Shapr3D (original model)](Models/MacBook%20Pro%20Coherence%20Camera%20Mount.shapr)
+* [Step (CAD interchange)](Models/MacBook%20Pro%20Coherence%20Camera%20Mount.step)
+* [USDZ (for AR viewing)](Models/MacBook%20Pro%20Coherence%20Camera%20Mount.usdz)
 
 ### iMac Pro
 
